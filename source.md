@@ -685,6 +685,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) <!--stargazers:dart-code-checker/dart-code-metrics--> - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 - [Appainter](https://github.com/zeshuaro/appainter) <!--stargazers:zeshuaro/appainter--> - A material theme editor and generator for Flutter by [Joshua Tang](https://github.com/zeshuaro)
 - [Melos](https://github.com/invertase/melos) <!--stargazers:invertase/melos--> - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase)
+- [flutter-cli](https://github.com/Antoinegtir/flutter-cli) <!--stargazers:Antoinegtir/flutter-cli--> - Inline terminal dashboard for multi-device hot reload, with live per-device performance and an HTTP inspector by [Antoine Gonthier](https://github.com/Antoinegtir)
 
 
 ### VSCode
